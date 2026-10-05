@@ -3,8 +3,8 @@
 <h1 align="center">Mem-Fix</h1>
 
 <p align="center">
-  <strong>把项目上下文写进文件，让下一位 AI 接得上。</strong><br>
-  跨模型项目记忆 · 阶段检查点 · 中断恢复
+  <strong>把项目上下文写进文件，让下一位 AI 能接上。</strong><br>
+  跨模型项目记忆 兼 中断恢复
 </p>
 
 <p align="center">
